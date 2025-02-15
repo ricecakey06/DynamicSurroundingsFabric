@@ -8,7 +8,7 @@
 * Fabric API >= 0.110.0+1.21.
 
 **NeoForge**
-* NeoForge 21.1.84+
+* NeoForge 21.1.84+1
 
 **What's New**
 * Added capability to pause/unpause music manager using the /dsmm command.
